@@ -13,8 +13,9 @@ To make a good analysis for Louise, first we had to organize the data from the d
 
 With these information we obtained graphs that represent the data and the insight that we were looking for in order to help Louise. 
 
-![Outcomes_Vs_Goals](C:\Users\Jp\OneDrive\Escritorio\Bootcamp\Challenges\Challenge 1/Outcomes_Vs_Goals.png)
-![Theater_Outcomes_vs_Launch](C:\Users\Jp\OneDrive\Escritorio\Bootcamp\Challenges\Challenge 1/Theater_Outcomes_vs_Launch.png)
+![Outcomes_Vs_Goals](https://user-images.githubusercontent.com/113566508/192657259-413c2b30-dd80-41fa-af8b-f0b3ef125eea.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/113566508/192657270-62a33589-f528-4396-ad33-ea6a52f20903.png)
+
 
 With these lineal graphs, we will obtain the results and the insights that are going to be presented to Louise. 
 
